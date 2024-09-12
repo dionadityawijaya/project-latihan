@@ -1,0 +1,11 @@
+Transaksi pada: 2024-08-31 23:04:13
+Barang: Buku C++, Harga: 150
+Barang: Buku Java, Harga: 200
+Barang: Keyboard, Harga: 50
+Total harga: 360
+----------------------------
+Transaksi pada: 2024-08-31 23:04:13
+Barang: Buku C++, Harga: 150
+Barang: Buku Java, Harga: 200
+Total harga: 330
+----------------------------

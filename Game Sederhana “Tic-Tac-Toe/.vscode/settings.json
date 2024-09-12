@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.mustache": "html",
+    "vector": "cpp"
+  }
+}

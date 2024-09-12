@@ -1,0 +1,20 @@
+[
+    {
+        "deskripsi": "Makan Siang",
+        "jumlah": 50.0,
+        "kategori": "Makan",
+        "tipe": "Pengeluaran"
+    },
+    {
+        "deskripsi": "Gaji Bulanan",
+        "jumlah": 3000.0,
+        "kategori": "Pendapatan",
+        "tipe": "Pemasukan"
+    },
+    {
+        "deskripsi": "Transportasi",
+        "jumlah": 100.0,
+        "kategori": "Transportasi",
+        "tipe": "Pengeluaran"
+    }
+]

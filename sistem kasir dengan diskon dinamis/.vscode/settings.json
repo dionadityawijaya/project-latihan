@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.mustache": "html",
+    "xstring": "cpp",
+    "memory": "cpp",
+    "vector": "cpp"
+  }
+}
